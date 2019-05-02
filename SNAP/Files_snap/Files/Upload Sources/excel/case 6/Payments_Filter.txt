@@ -1,0 +1,1562 @@
+"acquire card "~5
+"acquired card "~5
+"acquiring card "~5
+"acquisition card "~5
+"agree to card "~5
+"agreement card "~5
+"alliance card "~5
+"collaborate card "~5
+"collaborated card "~5
+"collaborating card "~5
+"collaboration card "~5
+"deal card "~5
+"dealing card "~5
+"expand card "~5
+"expanded card "~5
+"expanding card "~5
+"invest card "~5
+"invested card "~5
+"investing card "~5
+"investment card "~5
+"joint venture card "~5
+"jv card "~5
+"merge card "~5
+"merged card "~5
+"merger card "~5
+"merging card "~5
+"partner card "~5
+"partnered card "~5
+"partnering card "~5
+"partnership card "~5
+"procure card "~5
+"procured card "~5
+"procurement card "~5
+"procuring card "~5
+"sponsor card "~5
+"sponsored card "~5
+"sponsoring card "~5
+"sponsorship card "~5
+"start up card "~5
+"venture card "~5
+"ventured card "~5
+"venturing card "~5
+"carrier card "~5
+"contract card "~5
+"deadline card "~5
+"innovate card "~5
+"innovated card "~5
+"innovating card "~5
+"innovation card "~5
+"integrate card "~5
+"integrated card "~5
+"integration card "~5
+"investment card "~5
+"launch card "~5
+"launches card "~5
+"link card "~5
+"mobile card "~5
+"privacy card "~5
+"watch card "~5
+"alternative payment"~5
+"bank partnering"~5
+"bank partnership"~5
+"bank partnership"~5
+"biometric technology"~5
+"biometric technology"~5
+"bitcoin"~5
+"blockchain "~5
+"cryptocurrency"~5
+"digital"~5
+"facial recognition"~5
+"fingerprint"~5
+"fintech"~5
+"fintench"~5
+"instant payment"~5
+"interactive voice recognition"~5
+"internet of thing"~5
+"iot"~5
+"ivr"~5
+"mobile app"~5
+"mobile payment"~5
+"online pay"~5
+"p2p"~5
+"payment provider"~5
+"payment provider"~5
+"payment technology"~5
+"payment technology"~5
+"voice recognition"~5
+"wallet"~5
+"wearable"~5
+"card association"~5
+"bank identifier code"~5
+"bic"~5
+"finanicial institution"~5
+"iban"~5
+"international bank account number"~5
+"nbfi"~5
+"non bank"~5
+"non bank financial institution"~5
+"p2p lending"~5
+"robo advisors"~5
+"securecode"~5
+"underwriting"~5
+"acquire app  "~5
+"acquired app  "~5
+"acquiring app  "~5
+"acquisition app  "~5
+"agree to app  "~5
+"agreement app  "~5
+"alliance app  "~5
+"collaborate app  "~5
+"collaborated app  "~5
+"collaborating app  "~5
+"collaboration app  "~5
+"deal app  "~5
+"dealing app  "~5
+"expand app  "~5
+"expanded app  "~5
+"expanding app  "~5
+"invest app  "~5
+"invested app  "~5
+"investing app  "~5
+"investment app  "~5
+"joint venture app  "~5
+"jv app  "~5
+"merge app  "~5
+"merged app  "~5
+"merger app  "~5
+"merging app  "~5
+"partner app  "~5
+"partnered app  "~5
+"partnering app  "~5
+"partnership app  "~5
+"procure app  "~5
+"procured app  "~5
+"procurement app  "~5
+"procuring app  "~5
+"sponsor app  "~5
+"sponsored app  "~5
+"sponsoring app  "~5
+"sponsorship app  "~5
+"start up app  "~5
+"venture app  "~5
+"ventured app  "~5
+"venturing app  "~5
+"carrier app  "~5
+"contract app  "~5
+"deadline app  "~5
+"innovate app  "~5
+"innovated app  "~5
+"innovating app  "~5
+"innovation app  "~5
+"integrate app  "~5
+"integrated app  "~5
+"integration app  "~5
+"investment app  "~5
+"launch app  "~5
+"launches app  "~5
+"link app  "~5
+"mobile app  "~5
+"privacy app  "~5
+"watch app  "~5
+"acquire commerce  "~5
+"acquired commerce  "~5
+"acquiring commerce  "~5
+"acquisition commerce  "~5
+"agree to commerce  "~5
+"agreement commerce  "~5
+"alliance commerce  "~5
+"collaborate commerce  "~5
+"collaborated commerce  "~5
+"collaborating commerce  "~5
+"collaboration commerce  "~5
+"deal commerce  "~5
+"dealing commerce  "~5
+"expand commerce  "~5
+"expanded commerce  "~5
+"expanding commerce  "~5
+"invest commerce  "~5
+"invested commerce  "~5
+"investing commerce  "~5
+"investment commerce  "~5
+"joint venture commerce  "~5
+"jv commerce  "~5
+"merge commerce  "~5
+"merged commerce  "~5
+"merger commerce  "~5
+"merging commerce  "~5
+"partner commerce  "~5
+"partnered commerce  "~5
+"partnering commerce  "~5
+"partnership commerce  "~5
+"procure commerce  "~5
+"procured commerce  "~5
+"procurement commerce  "~5
+"procuring commerce  "~5
+"sponsor commerce  "~5
+"sponsored commerce  "~5
+"sponsoring commerce  "~5
+"sponsorship commerce  "~5
+"start up commerce  "~5
+"venture commerce  "~5
+"ventured commerce  "~5
+"venturing commerce  "~5
+"carrier commerce  "~5
+"contract commerce  "~5
+"deadline commerce  "~5
+"innovate commerce  "~5
+"innovated commerce  "~5
+"innovating commerce  "~5
+"innovation commerce  "~5
+"integrate commerce  "~5
+"integrated commerce  "~5
+"integration commerce  "~5
+"investment commerce  "~5
+"launch commerce  "~5
+"launches commerce  "~5
+"link commerce  "~5
+"mobile commerce  "~5
+"privacy commerce  "~5
+"watch commerce  "~5
+"acquire pay "~5
+"acquired pay "~5
+"acquiring pay "~5
+"acquisition pay "~5
+"agree to pay "~5
+"agreement pay "~5
+"alliance pay "~5
+"collaborate pay "~5
+"collaborated pay "~5
+"collaborating pay "~5
+"collaboration pay "~5
+"deal pay "~5
+"dealing pay "~5
+"expand pay "~5
+"expanded pay "~5
+"expanding pay "~5
+"invest pay "~5
+"invested pay "~5
+"investing pay "~5
+"investment pay "~5
+"joint venture pay "~5
+"jv pay "~5
+"merge pay "~5
+"merged pay "~5
+"merger pay "~5
+"merging pay "~5
+"partner pay "~5
+"partnered pay "~5
+"partnering pay "~5
+"partnership pay "~5
+"procure pay "~5
+"procured pay "~5
+"procurement pay "~5
+"procuring pay "~5
+"sponsor pay "~5
+"sponsored pay "~5
+"sponsoring pay "~5
+"sponsorship pay "~5
+"start up pay "~5
+"venture pay "~5
+"ventured pay "~5
+"venturing pay "~5
+"carrier pay "~5
+"contract pay "~5
+"deadline pay "~5
+"innovate pay "~5
+"innovated pay "~5
+"innovating pay "~5
+"innovation pay "~5
+"integrate pay "~5
+"integrated pay "~5
+"integration pay "~5
+"investment pay "~5
+"launch pay "~5
+"launches pay "~5
+"link pay "~5
+"mobile pay "~5
+"privacy pay "~5
+"watch pay "~5
+"acquire finance "~5
+"acquired finance "~5
+"acquiring finance "~5
+"acquisition finance "~5
+"agree to finance "~5
+"agreement finance "~5
+"alliance finance "~5
+"collaborate finance "~5
+"collaborated finance "~5
+"collaborating finance "~5
+"collaboration finance "~5
+"deal finance "~5
+"dealing finance "~5
+"expand finance "~5
+"expanded finance "~5
+"expanding finance "~5
+"invest finance "~5
+"invested finance "~5
+"investing finance "~5
+"investment finance "~5
+"joint venture finance "~5
+"jv finance "~5
+"merge finance "~5
+"merged finance "~5
+"merger finance "~5
+"merging finance "~5
+"partner finance "~5
+"partnered finance "~5
+"partnering finance "~5
+"partnership finance "~5
+"procure finance "~5
+"procured finance "~5
+"procurement finance "~5
+"procuring finance "~5
+"sponsor finance "~5
+"sponsored finance "~5
+"sponsoring finance "~5
+"sponsorship finance "~5
+"start up finance "~5
+"venture finance "~5
+"ventured finance "~5
+"venturing finance "~5
+"carrier finance "~5
+"contract finance "~5
+"deadline finance "~5
+"innovate finance "~5
+"innovated finance "~5
+"innovating finance "~5
+"innovation finance "~5
+"integrate finance "~5
+"integrated finance "~5
+"integration finance "~5
+"investment finance "~5
+"launch finance "~5
+"launches finance "~5
+"link finance "~5
+"mobile finance "~5
+"privacy finance "~5
+"watch finance "~5
+"acquire financial"~5
+"acquired financial"~5
+"acquiring financial"~5
+"acquisition financial"~5
+"agree to financial"~5
+"agreement financial"~5
+"alliance financial"~5
+"collaborate financial"~5
+"collaborated financial"~5
+"collaborating financial"~5
+"collaboration financial"~5
+"deal financial"~5
+"dealing financial"~5
+"expand financial"~5
+"expanded financial"~5
+"expanding financial"~5
+"invest financial"~5
+"invested financial"~5
+"investing financial"~5
+"investment financial"~5
+"joint venture financial"~5
+"jv financial"~5
+"merge financial"~5
+"merged financial"~5
+"merger financial"~5
+"merging financial"~5
+"partner financial"~5
+"partnered financial"~5
+"partnering financial"~5
+"partnership financial"~5
+"procure financial"~5
+"procured financial"~5
+"procurement financial"~5
+"procuring financial"~5
+"sponsor financial"~5
+"sponsored financial"~5
+"sponsoring financial"~5
+"sponsorship financial"~5
+"start up financial"~5
+"venture financial"~5
+"ventured financial"~5
+"venturing financial"~5
+"carrier financial"~5
+"contract financial"~5
+"deadline financial"~5
+"innovate financial"~5
+"innovated financial"~5
+"innovating financial"~5
+"innovation financial"~5
+"integrate financial"~5
+"integrated financial"~5
+"integration financial"~5
+"investment financial"~5
+"launch financial"~5
+"launches financial"~5
+"link financial"~5
+"mobile financial"~5
+"privacy financial"~5
+"watch financial"~5
+"acquire payment "~5
+"acquired payment "~5
+"acquiring payment "~5
+"acquisition payment "~5
+"agree to payment "~5
+"agreement payment "~5
+"alliance payment "~5
+"collaborate payment "~5
+"collaborated payment "~5
+"collaborating payment "~5
+"collaboration payment "~5
+"deal payment "~5
+"dealing payment "~5
+"expand payment "~5
+"expanded payment "~5
+"expanding payment "~5
+"invest payment "~5
+"invested payment "~5
+"investing payment "~5
+"investment payment "~5
+"joint venture payment "~5
+"jv payment "~5
+"merge payment "~5
+"merged payment "~5
+"merger payment "~5
+"merging payment "~5
+"partner payment "~5
+"partnered payment "~5
+"partnering payment "~5
+"partnership payment "~5
+"procure payment "~5
+"procured payment "~5
+"procurement payment "~5
+"procuring payment "~5
+"sponsor payment "~5
+"sponsored payment "~5
+"sponsoring payment "~5
+"sponsorship payment "~5
+"start up payment "~5
+"venture payment "~5
+"ventured payment "~5
+"venturing payment "~5
+"carrier payment "~5
+"contract payment "~5
+"deadline payment "~5
+"innovate payment "~5
+"innovated payment "~5
+"innovating payment "~5
+"innovation payment "~5
+"integrate payment "~5
+"integrated payment "~5
+"integration payment "~5
+"investment payment "~5
+"launch payment "~5
+"launches payment "~5
+"link payment "~5
+"mobile payment "~5
+"privacy payment "~5
+"watch payment "~5
+"acquire biometric "~5
+"acquired biometric "~5
+"acquiring biometric "~5
+"acquisition biometric "~5
+"agree to biometric "~5
+"agreement biometric "~5
+"alliance biometric "~5
+"collaborate biometric "~5
+"collaborated biometric "~5
+"collaborating biometric "~5
+"collaboration biometric "~5
+"deal biometric "~5
+"dealing biometric "~5
+"expand biometric "~5
+"expanded biometric "~5
+"expanding biometric "~5
+"invest biometric "~5
+"invested biometric "~5
+"investing biometric "~5
+"investment biometric "~5
+"joint venture biometric "~5
+"jv biometric "~5
+"merge biometric "~5
+"merged biometric "~5
+"merger biometric "~5
+"merging biometric "~5
+"partner biometric "~5
+"partnered biometric "~5
+"partnering biometric "~5
+"partnership biometric "~5
+"procure biometric "~5
+"procured biometric "~5
+"procurement biometric "~5
+"procuring biometric "~5
+"sponsor biometric "~5
+"sponsored biometric "~5
+"sponsoring biometric "~5
+"sponsorship biometric "~5
+"start up biometric "~5
+"venture biometric "~5
+"ventured biometric "~5
+"venturing biometric "~5
+"carrier biometric "~5
+"contract biometric "~5
+"deadline biometric "~5
+"innovate biometric "~5
+"innovated biometric "~5
+"innovating biometric "~5
+"innovation biometric "~5
+"integrate biometric "~5
+"integrated biometric "~5
+"integration biometric "~5
+"investment biometric "~5
+"launch biometric "~5
+"launches biometric "~5
+"link biometric "~5
+"mobile biometric "~5
+"privacy biometric "~5
+"watch biometric "~5
+"acquire blockchain "~5
+"acquired blockchain "~5
+"acquiring blockchain "~5
+"acquisition blockchain "~5
+"agree to blockchain "~5
+"agreement blockchain "~5
+"alliance blockchain "~5
+"collaborate blockchain "~5
+"collaborated blockchain "~5
+"collaborating blockchain "~5
+"collaboration blockchain "~5
+"deal blockchain "~5
+"dealing blockchain "~5
+"expand blockchain "~5
+"expanded blockchain "~5
+"expanding blockchain "~5
+"invest blockchain "~5
+"invested blockchain "~5
+"investing blockchain "~5
+"investment blockchain "~5
+"joint venture blockchain "~5
+"jv blockchain "~5
+"merge blockchain "~5
+"merged blockchain "~5
+"merger blockchain "~5
+"merging blockchain "~5
+"partner blockchain "~5
+"partnered blockchain "~5
+"partnering blockchain "~5
+"partnership blockchain "~5
+"procure blockchain "~5
+"procured blockchain "~5
+"procurement blockchain "~5
+"procuring blockchain "~5
+"sponsor blockchain "~5
+"sponsored blockchain "~5
+"sponsoring blockchain "~5
+"sponsorship blockchain "~5
+"start up blockchain "~5
+"venture blockchain "~5
+"ventured blockchain "~5
+"venturing blockchain "~5
+"carrier blockchain "~5
+"contract blockchain "~5
+"deadline blockchain "~5
+"innovate blockchain "~5
+"innovated blockchain "~5
+"innovating blockchain "~5
+"innovation blockchain "~5
+"integrate blockchain "~5
+"integrated blockchain "~5
+"integration blockchain "~5
+"investment blockchain "~5
+"launch blockchain "~5
+"launches blockchain "~5
+"link blockchain "~5
+"mobile blockchain "~5
+"privacy blockchain "~5
+"watch blockchain "~5
+"acquire cashless "~5
+"acquired cashless "~5
+"acquiring cashless "~5
+"acquisition cashless "~5
+"agree to cashless "~5
+"agreement cashless "~5
+"alliance cashless "~5
+"collaborate cashless "~5
+"collaborated cashless "~5
+"collaborating cashless "~5
+"collaboration cashless "~5
+"deal cashless "~5
+"dealing cashless "~5
+"expand cashless "~5
+"expanded cashless "~5
+"expanding cashless "~5
+"invest cashless "~5
+"invested cashless "~5
+"investing cashless "~5
+"investment cashless "~5
+"joint venture cashless "~5
+"jv cashless "~5
+"merge cashless "~5
+"merged cashless "~5
+"merger cashless "~5
+"merging cashless "~5
+"partner cashless "~5
+"partnered cashless "~5
+"partnering cashless "~5
+"partnership cashless "~5
+"procure cashless "~5
+"procured cashless "~5
+"procurement cashless "~5
+"procuring cashless "~5
+"sponsor cashless "~5
+"sponsored cashless "~5
+"sponsoring cashless "~5
+"sponsorship cashless "~5
+"start up cashless "~5
+"venture cashless "~5
+"ventured cashless "~5
+"venturing cashless "~5
+"carrier cashless "~5
+"contract cashless "~5
+"deadline cashless "~5
+"innovate cashless "~5
+"innovated cashless "~5
+"innovating cashless "~5
+"innovation cashless "~5
+"integrate cashless "~5
+"integrated cashless "~5
+"integration cashless "~5
+"investment cashless "~5
+"launch cashless "~5
+"launches cashless "~5
+"link cashless "~5
+"mobile cashless "~5
+"privacy cashless "~5
+"watch cashless "~5
+"acquire bank"~5
+"acquired bank"~5
+"acquiring bank"~5
+"acquisition bank"~5
+"agree to bank"~5
+"agreement bank"~5
+"alliance bank"~5
+"collaborate bank"~5
+"collaborated bank"~5
+"collaborating bank"~5
+"collaboration bank"~5
+"deal bank"~5
+"dealing bank"~5
+"expand bank"~5
+"expanded bank"~5
+"expanding bank"~5
+"invest bank"~5
+"invested bank"~5
+"investing bank"~5
+"investment bank"~5
+"joint venture bank"~5
+"jv bank"~5
+"merge bank"~5
+"merged bank"~5
+"merger bank"~5
+"merging bank"~5
+"partner bank"~5
+"partnered bank"~5
+"partnering bank"~5
+"partnership bank"~5
+"procure bank"~5
+"procured bank"~5
+"procurement bank"~5
+"procuring bank"~5
+"sponsor bank"~5
+"sponsored bank"~5
+"sponsoring bank"~5
+"sponsorship bank"~5
+"start up bank"~5
+"venture bank"~5
+"ventured bank"~5
+"venturing bank"~5
+"carrier bank"~5
+"contract bank"~5
+"deadline bank"~5
+"innovate bank"~5
+"innovated bank"~5
+"innovating bank"~5
+"innovation bank"~5
+"integrate bank"~5
+"integrated bank"~5
+"integration bank"~5
+"investment bank"~5
+"launch bank"~5
+"launches bank"~5
+"link bank"~5
+"mobile bank"~5
+"privacy bank"~5
+"watch bank"~5
+"alternative payment"~5
+"apple pay"~5
+"bank app"~5
+"banking"~5
+"bill pay"~5
+"biometric"~5
+"bitcoin"~5
+"carrier billing"~5
+"cashless"~5
+"cashless payment"~5
+"cashless transaction"~5
+"check imaging"~5
+"check out"~5
+"closed loop"~5
+"cloud hosted"~5
+"currency"~5
+"customer experience"~5
+"digital currency"~5
+"digital identity"~5
+"digital payment"~5
+"disruptive"~5
+"disruptive technology"~5
+"e commerce"~5
+"e money"~5
+"ecommerce"~5
+"electronic payment"~5
+"emoney"~5
+"front end innovation"~5
+"in app payment"~5
+"installment"~5
+"masterpass"~5
+"mobile app"~5
+"mobile banking"~5
+"mobile device authentication"~5
+"mobile payment"~5
+"mobile pos"~5
+"money"~5
+"money transfer"~5
+"mvisa"~5
+"nfc"~5
+"omnichannel"~5
+"online pay"~5
+"open loop"~5
+"p2p"~5
+"pay"~5
+"payment"~5
+"payment app"~5
+"payment platform"~5
+"paypal"~5
+"psp"~5
+"qr code"~5
+"rfid"~5
+"samsung pay"~5
+"tokenization"~5
+"virtual currency"~5
+"wallet"~5
+"wallet payment"~5
+"wearable"~5
+"acquiring bank"~5
+"atm interchange fee"~5
+"bank routing number"~5
+"bankcard"~5
+"card issuer"~5
+"card verification code"~5
+"card verification value"~5
+"cardholder"~5
+"cvc"~5
+"cvv"~5
+"digital payment"~5
+"eft"~5
+"electronic fund transfer"~5
+"issuer bank"~5
+"merchant bank"~5
+"online bank"~5
+"online banking"~5
+"online lending"~5
+"p2p lending"~5
+"peer to peer"~5
+"banking app"~5
+"bank card"~5
+"cashless transfer"~5
+"digital app"~5
+"digital innovation"~5
+"e payment"~5
+"epayment"~5
+"internet bank"~5
+"merchant carrier"~5
+"mobile transfer"~5
+"mobile wallet"~5
+"payment carrier"~5
+"payment development"~5
+"payment innovation"~5
+"payment method"~5
+"payment service"~5
+"payment system"~5
+"payment technology"~5
+"payment transfer"~5
+"payment watch"~5
+"transaction technology"~5
+"accelerator"~5
+"account processing"~5
+"ach"~5
+"acli"~5
+"acquirer"~5
+"atm"~5
+"authentication"~5
+"authorization "~5
+"automated clearing house"~5
+"bank identifier code"~5
+"bank payment hubs "~5
+"bic"~5
+"blockchain "~5
+"bluetooth low energy"~5
+"bph"~5
+"card processing"~5
+"cash withdrawal"~5
+"chip"~5
+"consortium"~5
+"contactless"~5
+"credit transfer"~5
+"crowdfund"~5
+"crowdfunding"~5
+"digital transaction"~5
+"e aggregator"~5
+"e commerce payment processing"~5
+"e wallet"~5
+"ecommerce"~5
+"eftpos"~5
+"electronic data interchange "~5
+"emv"~5
+"equity finance"~5
+"ewallet"~5
+"fast payment"~5
+"faster payment"~5
+"forex"~5
+"fx market"~5
+"host card emulation "~5
+"iban"~5
+"inmediate payment"~5
+"interbank"~5
+"international bank account number"~5
+"intrabank"~5
+"issuer"~5
+"ivrs"~5
+"margin structure"~5
+"merchant account processing"~5
+"mobile pos"~5
+"mpos"~5
+"multichannel"~5
+"nbfi"~5
+"near field communication"~5
+"off us payment"~5
+"on us payment"~5
+"online payment"~5
+"payment innovation"~5
+"payment interface"~5
+"payment network"~5
+"payment scheme"~5
+"payment service provider"~5
+"payments clearing"~5
+"pin"~5
+"pos"~5
+"psp"~5
+"pvl"~5
+"quick response code"~5
+"real time gross settlement"~5
+"remittance service provider"~5
+"rfid"~5
+"rsp"~5
+"rtgs"~5
+"scf"~5
+"settlement"~5
+"settlement mechanism"~5
+"smartcard"~5
+"smb tool"~5
+"smtp"~5
+"two factor"~5
+"two factor authentication"~5
+"unbanked"~5
+"underbanked"~5
+"unicorn"~5
+"venture capital"~5
+"chip & pin"~5
+"digital certificate"~5
+"escrow"~5
+"fund transfer system"~5
+"m commerce"~5
+"mcommerce"~5
+"merchant service provider"~5
+"mobile commerce"~5
+"multi factor authentication"~5
+"one time password"~5
+"otp"~5
+"payment gateway"~5
+"payment system"~5
+"point of sale"~5
+"secure payment gateway"~5
+"wire transfer"~5
+"affinity card"~5
+"annual fee"~5
+"annual percentage rate"~5
+"b2b card"~5
+"balance transfer"~5
+"card announce"~5
+"card announced"~5
+"card launch"~5
+"card launched"~5
+"card launching"~5
+"card promote"~5
+"cash advance"~5
+"charge card"~5
+"chip based"~5
+"co branded"~5
+"contactless"~5
+"contactless card"~5
+"corporate card"~5
+"credit card"~5
+"debit card"~5
+"digital"~5
+"digital money"~5
+"digital transformation"~5
+"digital wallet"~5
+"digitalization"~5
+"fleet card"~5
+"instalment"~5
+"instalment card"~5
+"merchant account"~5
+"multicurrency"~5
+"new card"~5
+"nfc"~5
+"omnichannel"~5
+"overlimit"~5
+"payment card"~5
+"pfm"~5
+"premium"~5
+"premium card"~5
+"prepaid card"~5
+"private label"~5
+"sme card"~5
+"t e"~5
+"travel expense"~5
+"van"~5
+"vcn"~5
+"virtual card"~5
+"card not present transactions"~5
+"card present transactions"~5
+"discount rate"~5
+"e pay"~5
+"electronic bill payment"~5
+"iso"~5
+"m commerce"~5
+"magnetic stripe"~5
+"magstripe"~5
+"mcommerce"~5
+"mobile commerce"~5
+"otc payment"~5
+"pin pad"~5
+"robo advisors"~5
+"amendment withdrawal "~5
+"compensation withdrawal "~5
+"compliance withdrawal "~5
+"fees withdrawal "~5
+"fine withdrawal "~5
+"issue withdrawal "~5
+"law withdrawal "~5
+"legal withdrawal "~5
+"license withdrawal "~5
+"lobby withdrawal "~5
+"policy withdrawal "~5
+"privacy withdrawal "~5
+"regulation withdrawal "~5
+"regulatory withdrawal "~5
+"bitcoin"~5
+"blockchain "~5
+"card fee"~5
+"card payment"~5
+"card transaction"~5
+"cash withdrawal"~5
+"cash withdrawal transaction "~5
+"cross border"~5
+"cryptocurrency "~5
+"fintench"~5
+"fraud"~5
+"ifr "~5
+"interchange fee regulation"~5
+"mdr"~5
+"merchant discount"~5
+"merchant discount rate"~5
+"merchant migration"~5
+"mifid"~5
+"mobile payment"~5
+"online payment"~5
+"payment license"~5
+"payment lobby"~5
+"payment transaction"~5
+"payments law"~5
+"payments law amendment"~5
+"payments processing"~5
+"payments regulation"~5
+"privacy issue"~5
+"psd"~5
+"psd ii"~5
+"psd2"~5
+"sepa"~5
+"single euro payment area"~5
+"surcharge"~5
+"two factor authentication"~5
+"3 d secure"~5
+"3d secure"~5
+"authentication"~5
+"authorization accounting"~5
+"basel ii "~5
+"cardholder verification value"~5
+"cvv"~5
+"federal reserve system"~5
+"fraudulent transaction"~5
+"kyc"~5
+"liability shift"~5
+"one time password"~5
+"otp"~5
+"pa dss"~5
+"payment application data security standards"~5
+"payment card industry audits"~5
+"payment card industry security standards council"~5
+"pci audits"~5
+"pci dss"~5
+"pci ssc"~5
+"sarbanes-oxley act"~5
+"swift"~5
+"amendment merchant "~5
+"compensation merchant "~5
+"compliance merchant "~5
+"fees merchant "~5
+"fine merchant "~5
+"issue merchant "~5
+"law merchant "~5
+"legal merchant "~5
+"license merchant "~5
+"lobby merchant "~5
+"policy merchant "~5
+"privacy merchant "~5
+"regulation merchant "~5
+"regulatory merchant "~5
+"amendment finance "~5
+"compensation finance "~5
+"compliance finance "~5
+"fees finance "~5
+"fine finance "~5
+"issue finance "~5
+"law finance "~5
+"legal finance "~5
+"license finance "~5
+"lobby finance "~5
+"policy finance "~5
+"privacy finance "~5
+"regulation finance "~5
+"regulatory finance "~5
+"amendment interchange  "~5
+"compensation interchange  "~5
+"compliance interchange  "~5
+"fees interchange  "~5
+"fine interchange  "~5
+"issue interchange  "~5
+"law interchange  "~5
+"legal interchange  "~5
+"license interchange  "~5
+"lobby interchange  "~5
+"policy interchange  "~5
+"privacy interchange  "~5
+"regulation interchange  "~5
+"regulatory interchange  "~5
+"amendment transaction "~5
+"compensation transaction "~5
+"compliance transaction "~5
+"fees transaction "~5
+"fine transaction "~5
+"issue transaction "~5
+"law transaction "~5
+"legal transaction "~5
+"license transaction "~5
+"lobby transaction "~5
+"policy transaction "~5
+"privacy transaction "~5
+"regulation transaction "~5
+"regulatory transaction "~5
+"amendment financial"~5
+"compensation financial"~5
+"compliance financial"~5
+"fees financial"~5
+"fine financial"~5
+"issue financial"~5
+"law financial"~5
+"legal financial"~5
+"license financial"~5
+"lobby financial"~5
+"policy financial"~5
+"privacy financial"~5
+"regulation financial"~5
+"regulatory financial"~5
+"campaign card "~5
+"co brand card "~5
+"coupon card "~5
+"customizable card "~5
+"customization card "~5
+"customize card "~5
+"customized card "~5
+"digital card "~5
+"discount card "~5
+"finance card "~5
+"fradulent card "~5
+"fraud card "~5
+"identity card "~5
+"in control card "~5
+"insurance card "~5
+"lender card "~5
+"loyalty card "~5
+"management card "~5
+"manager card "~5
+"offer card "~5
+"program card "~5
+"quote card "~5
+"quoting card "~5
+"receivable card "~5
+"recipient card "~5
+"renewal card "~5
+"reward card "~5
+"risk card "~5
+"safety card "~5
+"security card "~5
+"service card "~5
+"service provider card "~5
+"solution card "~5
+"tokenization card "~5
+"underwriting card "~5
+"voucher card "~5
+"campaign transaction "~5
+"co brand transaction "~5
+"coupon transaction "~5
+"customizable transaction "~5
+"customization transaction "~5
+"customize transaction "~5
+"customized transaction "~5
+"digital transaction "~5
+"discount transaction "~5
+"finance transaction "~5
+"fradulent transaction "~5
+"fraud transaction "~5
+"identity transaction "~5
+"in control transaction "~5
+"insurance transaction "~5
+"lender transaction "~5
+"loyalty transaction "~5
+"management transaction "~5
+"manager transaction "~5
+"offer transaction "~5
+"program transaction "~5
+"quote transaction "~5
+"quoting transaction "~5
+"receivable transaction "~5
+"recipient transaction "~5
+"renewal transaction "~5
+"reward transaction "~5
+"risk transaction "~5
+"safety transaction "~5
+"security transaction "~5
+"service transaction "~5
+"service provider transaction "~5
+"solution transaction "~5
+"tokenization transaction "~5
+"underwriting transaction "~5
+"voucher transaction "~5
+"campaign billing "~5
+"co brand billing "~5
+"coupon billing "~5
+"customizable billing "~5
+"customization billing "~5
+"customize billing "~5
+"customized billing "~5
+"digital billing "~5
+"discount billing "~5
+"finance billing "~5
+"fradulent billing "~5
+"fraud billing "~5
+"identity billing "~5
+"in control billing "~5
+"insurance billing "~5
+"lender billing "~5
+"loyalty billing "~5
+"management billing "~5
+"manager billing "~5
+"offer billing "~5
+"program billing "~5
+"quote billing "~5
+"quoting billing "~5
+"receivable billing "~5
+"recipient billing "~5
+"renewal billing "~5
+"reward billing "~5
+"risk billing "~5
+"safety billing "~5
+"security billing "~5
+"service billing "~5
+"service provider billing "~5
+"solution billing "~5
+"tokenization billing "~5
+"underwriting billing "~5
+"voucher billing "~5
+"campaign merchant "~5
+"co brand merchant "~5
+"coupon merchant "~5
+"customizable merchant "~5
+"customization merchant "~5
+"customize merchant "~5
+"customized merchant "~5
+"digital merchant "~5
+"discount merchant "~5
+"finance merchant "~5
+"fradulent merchant "~5
+"fraud merchant "~5
+"identity merchant "~5
+"in control merchant "~5
+"insurance merchant "~5
+"lender merchant "~5
+"loyalty merchant "~5
+"management merchant "~5
+"manager merchant "~5
+"offer merchant "~5
+"program merchant "~5
+"quote merchant "~5
+"quoting merchant "~5
+"receivable merchant "~5
+"recipient merchant "~5
+"renewal merchant "~5
+"reward merchant "~5
+"risk merchant "~5
+"safety merchant "~5
+"security merchant "~5
+"service merchant "~5
+"service provider merchant "~5
+"solution merchant "~5
+"tokenization merchant "~5
+"underwriting merchant "~5
+"voucher merchant "~5
+"campaign mobile "~5
+"co brand mobile "~5
+"coupon mobile "~5
+"customizable mobile "~5
+"customization mobile "~5
+"customize mobile "~5
+"customized mobile "~5
+"digital mobile "~5
+"discount mobile "~5
+"finance mobile "~5
+"fradulent mobile "~5
+"fraud mobile "~5
+"identity mobile "~5
+"in control mobile "~5
+"insurance mobile "~5
+"lender mobile "~5
+"loyalty mobile "~5
+"management mobile "~5
+"manager mobile "~5
+"offer mobile "~5
+"program mobile "~5
+"quote mobile "~5
+"quoting mobile "~5
+"receivable mobile "~5
+"recipient mobile "~5
+"renewal mobile "~5
+"reward mobile "~5
+"risk mobile "~5
+"safety mobile "~5
+"security mobile "~5
+"service mobile "~5
+"service provider mobile "~5
+"solution mobile "~5
+"tokenization mobile "~5
+"underwriting mobile "~5
+"voucher mobile "~5
+"campaign cash "~5
+"co brand cash "~5
+"coupon cash "~5
+"customizable cash "~5
+"customization cash "~5
+"customize cash "~5
+"customized cash "~5
+"digital cash "~5
+"discount cash "~5
+"finance cash "~5
+"fradulent cash "~5
+"fraud cash "~5
+"identity cash "~5
+"in control cash "~5
+"insurance cash "~5
+"lender cash "~5
+"loyalty cash "~5
+"management cash "~5
+"manager cash "~5
+"offer cash "~5
+"program cash "~5
+"quote cash "~5
+"quoting cash "~5
+"receivable cash "~5
+"recipient cash "~5
+"renewal cash "~5
+"reward cash "~5
+"risk cash "~5
+"safety cash "~5
+"security cash "~5
+"service cash "~5
+"service provider cash "~5
+"solution cash "~5
+"tokenization cash "~5
+"underwriting cash "~5
+"voucher cash "~5
+"campaign trading "~5
+"co brand trading "~5
+"coupon trading "~5
+"customizable trading "~5
+"customization trading "~5
+"customize trading "~5
+"customized trading "~5
+"digital trading "~5
+"discount trading "~5
+"finance trading "~5
+"fradulent trading "~5
+"fraud trading "~5
+"identity trading "~5
+"in control trading "~5
+"insurance trading "~5
+"lender trading "~5
+"loyalty trading "~5
+"management trading "~5
+"manager trading "~5
+"offer trading "~5
+"program trading "~5
+"quote trading "~5
+"quoting trading "~5
+"receivable trading "~5
+"recipient trading "~5
+"renewal trading "~5
+"reward trading "~5
+"risk trading "~5
+"safety trading "~5
+"security trading "~5
+"service trading "~5
+"service provider trading "~5
+"solution trading "~5
+"tokenization trading "~5
+"underwriting trading "~5
+"voucher trading "~5
+"campaign payment "~5
+"co brand payment "~5
+"coupon payment "~5
+"customizable payment "~5
+"customization payment "~5
+"customize payment "~5
+"customized payment "~5
+"digital payment "~5
+"discount payment "~5
+"finance payment "~5
+"fradulent payment "~5
+"fraud payment "~5
+"identity payment "~5
+"in control payment "~5
+"insurance payment "~5
+"lender payment "~5
+"loyalty payment "~5
+"management payment "~5
+"manager payment "~5
+"offer payment "~5
+"program payment "~5
+"quote payment "~5
+"quoting payment "~5
+"receivable payment "~5
+"recipient payment "~5
+"renewal payment "~5
+"reward payment "~5
+"risk payment "~5
+"safety payment "~5
+"security payment "~5
+"service payment "~5
+"service provider payment "~5
+"solution payment "~5
+"tokenization payment "~5
+"underwriting payment "~5
+"voucher payment "~5
+"actuary"~5
+"ai"~5
+"artificial intelligence"~5
+"asset manager"~5
+"banker"~5
+"biometric"~5
+"card insurance"~5
+"card offerings"~5
+"card security"~5
+"card transaction"~5
+"cash back"~5
+"cash back"~5
+"cash management"~5
+"cashback"~5
+"chargeback"~5
+"co brand program"~5
+"collaborative consumption platform"~5
+"credit score"~5
+"credit scoring"~5
+"creditworthiness"~5
+"customer experience"~5
+"cybersecurity"~5
+"digital identity"~5
+"e2e encryption"~5
+"encrypted"~5
+"encryption"~5
+"enterprise security service"~5
+"geolocation tracking"~5
+"hyperconnect"~5
+"intermediary"~5
+"interoperability"~5
+"invoice to cash"~5
+"loyalty  solution"~5
+"loyalty card"~5
+"m vas"~5
+"membership reward"~5
+"merchant offer"~5
+"mobile gift reward"~5
+"online cash register"~5
+"online money remittance "~5
+"payment analytic"~5
+"payment management"~5
+"payment security"~5
+"payments service"~5
+"personal finance manager"~5
+"pfm"~5
+"pso"~5
+"receipt tracking"~5
+"remittance"~5
+"reward offer"~5
+"risk management"~5
+"third party payment"~5
+"third party provider"~5
+"trading platform"~5
+"transaction aggregation service"~5
+"transaction velocity"~5
+"value added payment service"~5
+"grace period"~5
+"user authentication"~5
+"micr"~5
+"recurring transaction"~5
+"smart card"~5
+"billing cycle"~5
+"billing statement"~5
+"credit reversal"~5
+"blended pricing"~5
+"mobile payment"~5
+"digital payment"~5
+"monthly fee"~5
+"mobile commerce"~5
+"m-commerce"~5
+"ministerio de hacienda y administraciones públicas"~5
+"ministerio de economía y competitividad"~5
+"banco de españa"~5
+"banco popular"~5
+"banco sabadell"~5
+"banco santander"~5
+"bankinter"~5
+"bbva"~5
+"caixabank"~5
+"ibercaja"~5
+"unicaja"~5
+"ing bank"~5
+"bankia"~5
+"ministério das finanças"~5
+"banco de portugal"~5
+"banco santander totta"~5
+"banco comercial português"~5
+"millennium bcp "~5
+"sibs"~5
+"banco de méxico"~5
+"citibanamex"~5
+"bbva bancomer"~5
+"santander mexico"~5
+"banorte"~5
+"hsbc mexico"~5
+"ministerio de hacienda"~5
+"banco central de chile"~5
+"bbva chile"~5
+"banco santander"~5
+"bancoestado"~5
+"banco de chile"~5
+"itau corpbanca"~5
+"nubank"~5
+"cma"~5
+"abecs"~5
+"rede"~5
+"getnet"~5
+"stone"~5
+"vale presente"~5
+"super"~5
+"acesso"~5
+"ministério da fazenda"~5
+"banco central do brasil"~5
+"banco do brazil"~5
+"itau unibanco"~5
+"caixa economica federal"~5
+"banco bradesco"~5
+"banco santander"~5
+"uk card association"~5
+"bank of england"~5
+"halifax"~5
+"barclays"~5
+"natwest"~5
+"tsb"~5
+"lloyds banking group"~5
+"santender"~5
+"vocalink"~5
+"central bank of poland"~5
+"banco central de la república argentina"~5
+"ministerio de hacienda y finanzas públicas"~5
+"banco central de la argentina"~5
+"bbva francés"~5
+"banco de la nacion argentina"~5
+"banco de la provincia de buenos aires"~5
+"banco santander río"~5
+"banco de galicia y buenos aires"~5
+"banco de la nación argentina"~5
+"banco de la provincia de buenos aires"~5
+"banco santander"~5
+"banco galicia"~5
+"bbva francés"~5
+"government development bank for puerto rico"~5
+"departamento de hacienda"~5
+"departamento de desarrollo económico y comercio"~5
+"banco central estado asociado libre de puerto rico"~5
+"banco santander"~5
+"scotiabank"~5
+"oriental bank"~5
+"banco popular"~5
+"first bank"~5
+"oriental bank"~5
+"banco central del uruguay"~5
+"ministerio de economía y finanzas"~5
+"central bank of poland"~5
+"banco central del uruguay"~5
+"banco santander uruguay"~5
+"bbva uruguay"~5
+"banco bandes uruguay"~5
+"banco itaú uruguay"~5
+"scotiabank uruguay"~5
+"banco santander uruguay"~5
+"banco bilbao vizcaya argentaria uruguay"~5
+"european banking authority"~5
+"european central bank"~5
+"electronic payments association"~5
+"bank for international settlements"~5
+"paypal"~5
+"apple"~5
+"samsung"~5
+"ibm"~5
+"first data"~5
+"world pay"~5
+"tsys"~5
+"clover"~5
+"stripe"~5
+"elavon"~5
+"gemalto"~5
+"oberthur"~5
+"giesecke devrient"~5
+"verifone"~5
+"ingenico"~5
+"capgemini"~5

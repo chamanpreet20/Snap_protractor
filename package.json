@@ -1,0 +1,19 @@
+{
+  "name": "PROTRACTORTUTORIAL",
+  "dependencies": {
+    "hashmap": "^2.3.0",
+    "jasmine-data-provider": "^2.2.0",
+    "log4js": "^4.0.2",
+    "protractor": "^5.4.2",
+    "protractor-jasmine2-html-reporter": "^0.0.7"
+  },
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor-browser-logs": "1.0.352",
+    "log4js-protractor-appender": "1.1.2"
+  },
+  "scripts": {
+    "protractor": "./node_modules/.bin/protractor ./src/config/Configuration.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,435 @@
+"anti frizz"~5
+"innovate"~5
+"innovative"~5
+"innovation"~5
+"launch"~5
+"new release"~5
+"rolled out"~5
+"release"~5
+"patented"~5
+"patented technology"~5
+"introduce"~5
+"cutting edge"~5
+"invent"~5
+"unveil"~5
+"r&d"~5
+"research & development"~5
+"research and development"~5
+"break through"~5
+"coming soon"~5
+"launching"~5
+"blockbuster"~5
+"reveal"~5
+"fashion week "~5
+"convention"~5
+"fashion meet"~5
+"inauguration"~5
+"inaugural"~5
+"new idea"~5
+"revolutionary idea"~5
+"novelty"~5
+"remodeling"~5
+"cutting edge technology"~5
+"primary packaging"~5
+"secondary packaging"~5
+"pack"~5
+"rigid pack"~5
+"flexible pack"~5
+"rigid packaging"~5
+"flexible packaging"~5
+"plastic"~5
+"polyethylene"~5
+"pet"~5
+"polyethylene terephthalate"~5
+"hdpe"~5
+"high-density polyethylene"~5
+"high density polyethylene"~5
+"highdensity polyethylene"~5
+"pp"~5
+"polypropylene"~5
+"pvc"~5
+"polyvinyl chloride"~5
+"paxon plastic"~5
+"glass"~5
+"metal"~5
+"acrylic"~5
+"bio-based"~5
+"biobased"~5
+"non petrochemical"~5
+"non-petrochemical"~5
+"resin"~5
+"bioplastic"~5
+"bio plastic"~5
+"paper"~5
+"card board"~5
+"card-board"~5
+"cardboard"~5
+"tin"~5
+"steel"~5
+"aluminum"~5
+"ps"~5
+"polystyrene"~5
+"plant based"~5
+"organic"~5
+"mineral based"~5
+"natural"~5
+"polymer"~5
+"sustainable"~5
+"tube"~5
+"bottle"~5
+"cap"~5
+"ampoule"~5
+"dropper"~5
+"container"~5
+"tub"~5
+"spray"~5
+"aerosol"~5
+"aerosol spray"~5
+"roller ball"~5
+"stick"~5
+"foamer"~5
+"pump"~5
+"bag"~5
+"blister card"~5
+"blister pack"~5
+"carton"~5
+"case"~5
+"clam-pack"~5
+"flexible sachet"~5
+"jar"~5
+"blister"~5
+"sachet"~5
+"pouch"~5
+"spout"~5
+"capsule"~5
+"pill"~5
+"rigid packaging"~5
+"flexible packaging"~5
+"contour packaging"~5
+"tottle"~5
+"flip top cap"~5
+"pumping"~5
+"dual dispenser"~5
+"foaming"~5
+"spraying"~5
+"squeeze"~5
+"trigger spray"~5
+"twist-up"~5
+"lockable"~5
+"roll-on"~5
+"squeezer"~5
+"sachet"~5
+"closure dispense"~5
+"closure"~5
+"air less pumping"~5
+"reduced weight"~5
+"after use application"~5
+"eco friendly"~5
+"eco-friendly"~5
+"environment-friendly"~5
+"energy efficient"~5
+"less energy"~5
+"reduced landfill"~5
+"no landfill"~5
+"biodegradable"~5
+"environmentally-safe"~5
+"recycled"~5
+"recyclable"~5
+"recyclability"~5
+"recycle"~5
+"nature-friendly"~5
+"reusable"~5
+"reusability"~5
+"long life"~5
+"light weight"~5
+"landfill"~5
+"reusable"~5
+"long-lasting"~5
+"long lasting"~5
+"control release"~5
+"controlled release"~5
+"control dispense"~5
+"controlled dispense"~5
+"slow release"~5
+"slow dispense"~5
+"time release"~5
+"fix dose"~5
+"fix dosage"~5
+"efficient size"~5
+"status indicator"~5
+"indicator"~5
+"attractive"~5
+"attractable"~5
+"attract"~5
+"scratch resistant"~5
+"scratch resistance"~5
+"unbreakable"~5
+"squeezable"~5
+"uv resistant"~5
+"uv resistance"~5
+"temperature controlled"~5
+"airless"~5
+"light barrier"~5
+"convenient"~5
+"on the go"~5
+"portable"~5
+"ease of use"~5
+"easy to use"~5
+"handy"~5
+"compact"~5
+"light weight"~5
+"transportable"~5
+"quick absorbent"~5
+"light absorbent "~5
+"indicate"~5
+"indication"~5
+"skin care"~5
+"skincare"~5
+"cosmetics"~5
+"makeup"~5
+"make-up"~5
+"hair care"~5
+"skin treatment "~5
+"hair treatment "~5
+"color cosmetics"~5
+"personal care"~5
+"deodorant"~5
+"shaving"~5
+"skincare"~5
+"haircare"~5
+"depilatories"~5
+"colour cosmetics"~5
+"hair styling"~5
+"eye care"~5
+"lip care"~5
+"nail care"~5
+"cream"~5
+"gel"~5
+"spray"~5
+"mousse"~5
+"roll-on"~5
+"lotion"~5
+"oil"~5
+"foam"~5
+"mask"~5
+"sheet"~5
+"patch"~5
+"balm"~5
+"powder"~5
+"serum"~5
+"wax"~5
+"sorbet"~5
+"concealer"~5
+"body butter"~5
+"gel cream"~5
+"cleanser"~5
+"soap"~5
+"facial peel"~5
+"bar"~5
+"nail paint"~5
+"shampoo"~5
+"conditioner"~5
+"bronzer"~5
+"blush"~5
+"eye liner"~5
+"eye shadow"~5
+"foundation"~5
+"illuminator"~5
+"primer"~5
+"lip color"~5
+"lip liner"~5
+"nail polish "~5
+"lip colour"~5
+"peel"~5
+"cake "~5
+"mascara"~5
+"lipstick"~5
+"hair color"~5
+"active ingredient"~5
+"iron oxide"~5
+"zinc oxide"~5
+"mica"~5
+"titanium dioxide"~5
+"base"~5
+"substrate"~5
+"additive"~5
+"microflora"~5
+"microbiota"~5
+"microbiome"~5
+"natural"~5
+"organic"~5
+"inorganic"~5
+"herb"~5
+"mineral"~5
+"mineral oil"~5
+"exotic herb"~5
+"extract"~5
+"non-toxic"~5
+"antioxidant"~5
+"vitamin"~5
+"prebiotic"~5
+"probiotic"~5
+"colourant"~5
+"colorant"~5
+"fragrance"~5
+"flavour"~5
+"flavor"~5
+"fortification"~5
+"fruit"~5
+"fortified"~5
+"anti-oxidant"~5
+"fruit extract"~5
+"oil"~5
+"flower extract"~5
+"botanical"~5
+"herbal"~5
+"vegan"~5
+"kosher"~5
+"aloe barbadensis"~5
+"vanilla planifolia "~5
+"centella asiatica "~5
+"juglans regia shell powder"~5
+"eperua falcata bark extract"~5
+"citrus paradisi seed oil"~5
+"herbs"~5
+"preservative"~5
+"gluten"~5
+"harmful chemical"~5
+"toxic ingredient"~5
+"toxic chemical"~5
+"paraben"~5
+"cruelty"~5
+"alcohol"~5
+"gmo"~5
+"animal by-products"~5
+"petroleam "~5
+"sulphate"~5
+"sulfate"~5
+"silicone"~5
+"petroleum"~5
+"color"~5
+"texture"~5
+"tone"~5
+"tightening"~5
+"elasticity"~5
+"conditioning"~5
+"moisturizing"~5
+"styling hair/beard"~5
+"brightness"~5
+"radiance"~5
+"moisturize"~5
+"softness"~5
+"glow"~5
+"shine"~5
+"soft"~5
+"brighten"~5
+"enhance"~5
+"promote"~5
+"colour"~5
+"moisturise"~5
+"moisture"~5
+"bright"~5
+"hydrating"~5
+"whitening"~5
+"lightening"~5
+"firming"~5
+"mattifying"~5
+"smoothen"~5
+"dirt"~5
+"germ"~5
+"bacteria"~5
+"black heads"~5
+"white heads"~5
+"dead skin"~5
+"dead cells"~5
+"excessive oil"~5
+"exfoliate"~5
+"anti-bacterial"~5
+"impurities"~5
+"wash"~5
+"clear"~5
+"fresh"~5
+"cleans"~5
+"pollutants "~5
+"flakes"~5
+"pollution"~5
+"oil"~5
+"antibacterial"~5
+"fresh"~5
+"freshness"~5
+"refresh"~5
+"non-sticky"~5
+"anti-fungal"~5
+"anti-microbial"~5
+"makeup"~5
+"make-up"~5
+"uv protection"~5
+"uv exposure"~5
+"sunburn"~5
+"sun protection"~5
+"uva protection"~5
+"uvb protection"~5
+"sun damage"~5
+"humidity "~5
+"rain "~5
+"dry air"~5
+"wrinkle"~5
+"dullness"~5
+"dark circle"~5
+"rosacea"~5
+"fine line"~5
+"acne"~5
+"odor"~5
+"discoloration"~5
+"anti-aging"~5
+"aging"~5
+"restore elasticity"~5
+"restore firmness"~5
+"restore softness"~5
+"uneven skin tone"~5
+"skin breakage"~5
+"revitalize"~5
+"skin nourishment"~5
+"replenish skin"~5
+"replenish nail"~5
+"white spot "~5
+"acne scar"~5
+"pimple scar"~5
+"scar"~5
+"dark spot"~5
+"odour"~5
+"uneven skin"~5
+"discolouration"~5
+"patches"~5
+"hydrate"~5
+"rejuvenate"~5
+"nourish"~5
+"premature aging"~5
+"premature"~5
+"boost collagen"~5
+"collagen"~5
+"ph level"~5
+"acne marks"~5
+"non-comedogenic"~5
+"hypoallergenic"~5
+"pigmentation"~5
+"redness"~5
+"dryness"~5
+"cracks"~5
+"repairs skin"~5
+"dehydration"~5
+"inflammation"~5
+"puffiness"~5
+"flakiness"~5
+"heal"~5
+"soothe"~5
+"cure"~5
+"rectify"~5
+"blemishes"~5
+"sensitive skin"~5
+"sensitive"~5
+"aromatherapy"~5
+"fast action"~5
+"sensory benefits"~5
+"pamper"~5
+"ph neutral"~5

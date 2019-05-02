@@ -1,0 +1,142 @@
+[2019-05-01T16:38:31.138] [DEBUG] logfile - Some debug messages
+[2019-05-01T16:38:32.285] [INFO] logfile - opened the url
+[2019-05-01T16:38:35.772] [INFO] logfile - Enter correct username
+[2019-05-01T16:38:35.774] [INFO] logfile - Enter correct password
+[2019-05-01T16:38:35.775] [INFO] logfile - logged in to SNAP
+[2019-05-01T16:38:36.875] [INFO] logfile - opened the url
+[2019-05-01T16:38:38.759] [INFO] logfile - Enter incorrect username
+[2019-05-01T16:38:38.760] [INFO] logfile - Enter incorrect password
+[2019-05-01T16:38:38.764] [INFO] logfile - not logged in to SNAP
+[2019-05-01T16:38:39.282] [INFO] logfile - opened the url
+[2019-05-01T16:38:40.833] [INFO] logfile - Enter blank username
+[2019-05-01T16:38:40.833] [INFO] logfile - Enter correct password
+[2019-05-01T16:38:40.834] [INFO] logfile - not logged in to SNAP with blank username
+[2019-05-01T16:38:41.310] [INFO] logfile - opened the url
+[2019-05-01T16:38:42.983] [INFO] logfile - Enter correct username
+[2019-05-01T16:38:42.984] [INFO] logfile - Enter blank password
+[2019-05-01T16:38:42.989] [INFO] logfile - not logged in to SNAP with blank password
+[2019-05-01T16:38:43.613] [INFO] logfile - opened the url
+[2019-05-01T16:38:45.187] [INFO] logfile - Enter correct username
+[2019-05-01T16:38:45.188] [INFO] logfile - Enter incorrect password
+[2019-05-01T16:38:45.190] [INFO] logfile - not logged in to SNAP with incorrect password
+[2019-05-01T16:38:45.948] [INFO] logfile - opened the url
+[2019-05-01T16:38:47.485] [INFO] logfile - Enter blank username
+[2019-05-01T16:38:47.485] [INFO] logfile - Enter blank password
+[2019-05-01T16:38:47.486] [INFO] logfile - not logged in to SNAP with blank username and password
+[2019-05-02T11:04:10.955] [DEBUG] logfile - Some debug messages
+[2019-05-02T11:06:45.277] [INFO] logfile - opened the url
+[2019-05-02T11:06:47.325] [INFO] logfile - Enter correct username
+[2019-05-02T11:06:47.326] [INFO] logfile - Enter correct password
+[2019-05-02T11:06:47.326] [INFO] logfile - logged in to SNAP
+[2019-05-02T11:06:48.177] [INFO] logfile - opened the url
+[2019-05-02T11:06:49.535] [INFO] logfile - Enter incorrect username
+[2019-05-02T11:06:49.536] [INFO] logfile - Enter incorrect password
+[2019-05-02T11:06:49.536] [INFO] logfile - not logged in to SNAP
+[2019-05-02T11:06:50.013] [INFO] logfile - opened the url
+[2019-05-02T11:06:51.604] [INFO] logfile - Enter blank username
+[2019-05-02T11:06:51.605] [INFO] logfile - Enter correct password
+[2019-05-02T11:06:51.606] [INFO] logfile - not logged in to SNAP with blank username
+[2019-05-02T11:06:52.119] [INFO] logfile - opened the url
+[2019-05-02T11:06:53.576] [INFO] logfile - Enter correct username
+[2019-05-02T11:06:53.576] [INFO] logfile - Enter blank password
+[2019-05-02T11:06:53.577] [INFO] logfile - not logged in to SNAP with blank password
+[2019-05-02T11:06:54.128] [INFO] logfile - opened the url
+[2019-05-02T11:06:55.688] [INFO] logfile - Enter correct username
+[2019-05-02T11:06:55.688] [INFO] logfile - Enter incorrect password
+[2019-05-02T11:06:55.689] [INFO] logfile - not logged in to SNAP with incorrect password
+[2019-05-02T11:06:56.396] [INFO] logfile - opened the url
+[2019-05-02T11:06:57.957] [INFO] logfile - Enter blank username
+[2019-05-02T11:06:57.958] [INFO] logfile - Enter blank password
+[2019-05-02T11:06:57.959] [INFO] logfile - not logged in to SNAP with blank username and password
+[2019-05-02T11:54:07.818] [DEBUG] logfile - Some debug messages
+[2019-05-02T11:54:09.151] [INFO] logfile - opened the url
+[2019-05-02T11:54:12.736] [INFO] logfile - Enter correct username
+[2019-05-02T11:54:12.738] [INFO] logfile - Enter correct password
+[2019-05-02T11:54:12.739] [INFO] logfile - logged in to SNAP
+[2019-05-02T11:54:14.087] [INFO] logfile - opened the url
+[2019-05-02T11:54:16.122] [INFO] logfile - Enter incorrect username
+[2019-05-02T11:54:16.123] [INFO] logfile - Enter incorrect password
+[2019-05-02T11:54:16.123] [INFO] logfile - not logged in to SNAP
+[2019-05-02T11:54:16.740] [INFO] logfile - opened the url
+[2019-05-02T11:54:18.547] [INFO] logfile - Enter blank username
+[2019-05-02T11:54:18.547] [INFO] logfile - Enter correct password
+[2019-05-02T11:54:18.549] [INFO] logfile - not logged in to SNAP with blank username
+[2019-05-02T11:54:19.134] [INFO] logfile - opened the url
+[2019-05-02T11:54:20.879] [INFO] logfile - Enter correct username
+[2019-05-02T11:54:20.879] [INFO] logfile - Enter blank password
+[2019-05-02T11:54:20.880] [INFO] logfile - not logged in to SNAP with blank password
+[2019-05-02T11:54:21.579] [INFO] logfile - opened the url
+[2019-05-02T11:54:23.305] [INFO] logfile - Enter correct username
+[2019-05-02T11:54:23.306] [INFO] logfile - Enter incorrect password
+[2019-05-02T11:54:23.307] [INFO] logfile - not logged in to SNAP with incorrect password
+[2019-05-02T11:54:24.129] [INFO] logfile - opened the url
+[2019-05-02T11:54:25.917] [INFO] logfile - Enter blank username
+[2019-05-02T11:54:25.917] [INFO] logfile - Enter blank password
+[2019-05-02T11:54:25.920] [INFO] logfile - not logged in to SNAP with blank username and password
+[2019-05-02T11:57:05.079] [DEBUG] logfile - Some debug messages
+[2019-05-02T11:57:06.217] [INFO] logfile - opened the url
+[2019-05-02T11:57:09.103] [INFO] logfile - Enter correct username
+[2019-05-02T11:57:09.103] [INFO] logfile - Enter correct password
+[2019-05-02T11:57:09.103] [INFO] logfile - logged in to SNAP
+[2019-05-02T11:57:10.411] [INFO] logfile - opened the url
+[2019-05-02T11:57:12.461] [INFO] logfile - Enter incorrect username
+[2019-05-02T11:57:12.461] [INFO] logfile - Enter incorrect password
+[2019-05-02T11:57:12.462] [INFO] logfile - not logged in to SNAP
+[2019-05-02T11:57:13.020] [INFO] logfile - opened the url
+[2019-05-02T11:57:14.784] [INFO] logfile - Enter blank username
+[2019-05-02T11:57:14.785] [INFO] logfile - Enter correct password
+[2019-05-02T11:57:14.786] [INFO] logfile - not logged in to SNAP with blank username
+[2019-05-02T11:57:15.283] [INFO] logfile - opened the url
+[2019-05-02T11:57:16.892] [INFO] logfile - Enter correct username
+[2019-05-02T11:57:16.892] [INFO] logfile - Enter blank password
+[2019-05-02T11:57:16.893] [INFO] logfile - not logged in to SNAP with blank password
+[2019-05-02T11:57:17.572] [INFO] logfile - opened the url
+[2019-05-02T11:57:19.189] [INFO] logfile - Enter correct username
+[2019-05-02T11:57:19.189] [INFO] logfile - Enter incorrect password
+[2019-05-02T11:57:19.189] [INFO] logfile - not logged in to SNAP with incorrect password
+[2019-05-02T11:57:20.015] [INFO] logfile - opened the url
+[2019-05-02T11:57:21.667] [INFO] logfile - Enter blank username
+[2019-05-02T11:57:21.668] [INFO] logfile - Enter blank password
+[2019-05-02T11:57:21.669] [INFO] logfile - not logged in to SNAP with blank username and password
+[2019-05-02T11:58:54.117] [DEBUG] logfile - Some debug messages
+[2019-05-02T11:58:55.257] [INFO] logfile - opened the url
+[2019-05-02T11:58:58.312] [INFO] logfile - Enter correct username
+[2019-05-02T11:58:58.313] [INFO] logfile - Enter correct password
+[2019-05-02T11:58:58.313] [INFO] logfile - logged in to SNAP
+[2019-05-02T11:58:59.941] [INFO] logfile - opened the url
+[2019-05-02T11:59:02.212] [INFO] logfile - Enter blank username
+[2019-05-02T11:59:02.212] [INFO] logfile - Enter correct password
+[2019-05-02T11:59:02.213] [INFO] logfile - not logged in to SNAP with blank username
+[2019-05-02T11:59:02.754] [INFO] logfile - opened the url
+[2019-05-02T11:59:04.980] [INFO] logfile - Enter correct username
+[2019-05-02T11:59:04.981] [INFO] logfile - Enter blank password
+[2019-05-02T11:59:04.981] [INFO] logfile - not logged in to SNAP with blank password
+[2019-05-02T11:59:05.652] [INFO] logfile - opened the url
+[2019-05-02T11:59:07.411] [INFO] logfile - Enter correct username
+[2019-05-02T11:59:07.412] [INFO] logfile - Enter incorrect password
+[2019-05-02T11:59:07.412] [INFO] logfile - not logged in to SNAP with incorrect password
+[2019-05-02T11:59:08.222] [INFO] logfile - opened the url
+[2019-05-02T11:59:10.245] [INFO] logfile - Enter blank username
+[2019-05-02T11:59:10.245] [INFO] logfile - Enter blank password
+[2019-05-02T11:59:10.247] [INFO] logfile - not logged in to SNAP with blank username and password
+[2019-05-02T11:59:50.070] [DEBUG] logfile - Some debug messages
+[2019-05-02T11:59:51.646] [INFO] logfile - opened the url
+[2019-05-02T11:59:54.684] [INFO] logfile - Enter correct username
+[2019-05-02T11:59:54.684] [INFO] logfile - Enter correct password
+[2019-05-02T11:59:54.685] [INFO] logfile - logged in to SNAP
+[2019-05-02T11:59:56.181] [INFO] logfile - opened the url
+[2019-05-02T11:59:58.332] [INFO] logfile - Enter blank username
+[2019-05-02T11:59:58.333] [INFO] logfile - Enter correct password
+[2019-05-02T11:59:58.334] [INFO] logfile - not logged in to SNAP with blank username
+[2019-05-02T11:59:58.835] [INFO] logfile - opened the url
+[2019-05-02T12:00:00.599] [INFO] logfile - Enter correct username
+[2019-05-02T12:00:00.599] [INFO] logfile - Enter blank password
+[2019-05-02T12:00:00.600] [INFO] logfile - not logged in to SNAP with blank password
+[2019-05-02T12:00:01.285] [INFO] logfile - opened the url
+[2019-05-02T12:00:02.972] [INFO] logfile - Enter correct username
+[2019-05-02T12:00:02.972] [INFO] logfile - Enter incorrect password
+[2019-05-02T12:00:02.972] [INFO] logfile - not logged in to SNAP with incorrect password
+[2019-05-02T12:00:03.713] [INFO] logfile - opened the url
+[2019-05-02T12:00:05.420] [INFO] logfile - Enter blank username
+[2019-05-02T12:00:05.420] [INFO] logfile - Enter blank password
+[2019-05-02T12:00:05.422] [INFO] logfile - not logged in to SNAP with blank username and password
